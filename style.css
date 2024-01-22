@@ -1,5 +1,47 @@
-h1{
-    text-align: left;
-    font-weight: 600;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  h1{
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size-adjust: 100;
+    margin-left: 150px;
+    margin-top: 100px;
 }
+
+  h2{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    width: 400px;
+    height: 75px;
+    margin-left: 150px;
+}
+
+  img {
+    width: 100%;
+    height: auto;
+    border-radius: 25px;
+  }
+
+  #moonimage{
+    width: 10%;
+    height: 10%; 
+    position: relative;
+    top: -250px;
+    left: 1150px;
+}
+
+  #earthimage{
+    width: 25%;
+    height: 25%;
+    position: relative;
+    top: 70px;
+    left: 650px;
+    
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+    
